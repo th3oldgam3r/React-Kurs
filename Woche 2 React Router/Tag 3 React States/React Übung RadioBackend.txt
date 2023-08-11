@@ -1,0 +1,6 @@
+1. Bildet selbst zwei Teams
+2. Analysiert gemeinsam welche Daten momentan auf der Radioseite dem Besucher angezeigt werden.
+3. Analysiert wie diese Daten am einfachsten im Radio von Management und Moderation verwaltet werden könnten (Fokus liegt auf einem digitalen Prozess zu Datenverwaltung nicht auf der Radiotchnik ;) )
+3.1. Die Daten müssen persistent gespeichert, geändert und gelöscht werden können
+3.2. Es muss eine Möglichkeit geben diese Daten effizient abzurufen und in die Seite einbauen zu können.
+4. Arbeitet ein Konzept zur digitalen Verwaltung mit den in 3.) aufgeführten Eckpunkten auf.

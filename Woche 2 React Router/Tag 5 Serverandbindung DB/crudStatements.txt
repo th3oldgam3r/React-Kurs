@@ -1,0 +1,4 @@
+INSERT INTO `news`( `headline`, `content`) VALUES ('Ist die DSGVO der Absturz für Streaming Services?','2) Lorem ipsum dolor sit amet, consetetur sadipscing elitr');
+UPDATE `news` SET `headline`='Neue Nachrichten zu AI',`content`='Hallo' WHERE _id = 2;
+DELETE FROM `news` WHERE _id = 2
+SELECT * FROM `news` WHERE _id = 2;
